@@ -5,7 +5,7 @@ Welcome to this Next.js project, expertly crafted with the powerful tooling of `
 To get started with this project, first clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/dondxniel/rotate.git
+git clone https://github.com/savannahtech/rotate-don.git
 ```
 
 Then, navigate to the project folder in your terminal and run the following command to install the necessary dependencies:
